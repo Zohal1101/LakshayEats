@@ -1,5 +1,5 @@
 # lakshayEats
-CSC207 group project {ai cooking journal}
+CSC207 group project {cooking application}
 
 USER STORY 1 – Preferences & Filters Setup
 As a user, I want to set my dietary preferences, intolerances, cuisine inclusions/exclusions, ingredients to include/exclude, and maximum cook time so that my search results are tailored to my needs.
