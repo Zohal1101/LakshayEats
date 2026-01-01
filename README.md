@@ -1,4 +1,4 @@
-# lakshayEats
+# LakshayEats
 CSC207 group project {cooking application}
 
 USER STORY 1 – Preferences & Filters Setup
